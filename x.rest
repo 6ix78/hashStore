@@ -153,7 +153,7 @@ Content-Type: application/json
 Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNDlmNzA5NGY4ODVmNDg5YjdhYzhkNiIsImlhdCI6MTY1MDY2NzY3NywiZXhwIjoxNjUwNzU0MDc3fQ.6LqQupj6lUosVq5qCSpM8M8IkUxtLjDPsKrdkmpTkmE
 
 ###==================================PLAN-CONTRACT============================================
-POST https://cominer.herokuapp.com/api/plan/x/democontract/add?key=c3fe929c35dd0cbcc8f062bb60e9d2ce7d14be21513d07c53e370d81ba9de4a4
+POST http://localhost:8888/api/plan/x/democontract/add?key=c3fe929c35dd0cbcc8f062bb60e9d2ce7d14be21513d07c53e370d81ba9de4a4
 Content-Type: application/json
 Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNTFlY2FlMDAwZWM0NmJhNWYwOGQzNCIsImlhdCI6MTY0OTg3NTIzMiwiZXhwIjoxNjQ5OTYxNjMyfQ.NYNrFny3XvmYoCUEllRVC7YXj-ttegFBG6VyV0mMX3A
 
@@ -167,7 +167,7 @@ Content-Type: application/json
 Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNTFlY2FlMDAwZWM0NmJhNWYwOGQzNCIsImlhdCI6MTY0OTg3NTIzMiwiZXhwIjoxNjQ5OTYxNjMyfQ.NYNrFny3XvmYoCUEllRVC7YXj-ttegFBG6VyV0mMX3A
 
 ###
-POST https://cominer.herokuapp.com/api/plan/x/contract/add?key=c3fe929c35dd0cbcc8f062bb60e9d2ce7d14be21513d07c53e370d81ba9de4a4
+POST http://localhost:8888/api/plan/x/contract/add?key=c3fe929c35dd0cbcc8f062bb60e9d2ce7d14be21513d07c53e370d81ba9de4a4
 Content-Type: application/json
 Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNTc3YzAzOTU4NGFhYTkzNTk2MzMzOCIsImlhdCI6MTY1MDE2MjQ3MSwiZXhwIjoxNjUwMjQ4ODcxfQ.GHewjAKoUUH5xcs2HC8iWoPzYCxLK4Qkr9Z-Yw2q-bA
 
